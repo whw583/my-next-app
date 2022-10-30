@@ -8,5 +8,4 @@ const { Student } = initSchema(schema);
 
 export {
   Student
-
 };
